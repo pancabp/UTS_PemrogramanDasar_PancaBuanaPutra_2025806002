@@ -1,0 +1,12 @@
+=== LAPORAN STATISTIK TEKS ===
+Jumlah baris           : 2
+Jumlah kata            : 12
+Jumlah huruf vokal     : 30
+Jumlah huruf konsonan  : 42
+
+=== 5 KATA TERBANYAK & GRAFIK FREKUENSI ===
+saya         : ## (2x)
+halo         : # (1x)
+dunia        : # (1x)
+perkenalkan  : # (1x)
+nama         : # (1x)
